@@ -1,2 +1,2 @@
-# hallo-world
-test for githu pages
+# hello-world
+test for github pages
