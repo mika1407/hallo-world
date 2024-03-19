@@ -1,8 +1,28 @@
 body {
-  background-color: lightgrey;
+  background-color: ivory;
+  color: gray;
 }
 
 h1 {
-  color: blue;
-  margin-left: 10px;
+  font-size: 35px;
+}
+
+p {
+  font-size: 16px;
+  color: darkblue;
+  background-color: lavender;
+}
+
+ol {
+  list-style-type:lower-alpha;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.profile-image {
+  border: dotted 2px;
+  width: 200px;
+  height: 200px;
 }
